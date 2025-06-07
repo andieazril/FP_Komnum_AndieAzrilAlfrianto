@@ -12,3 +12,4 @@ Soal :
 <div align="left">
   <img src="https://github.com/user-attachments/assets/acbaa9b3-92c0-42bc-b9fd-0bec5c7b1d2d" width="600" />
 </div>
+"# FP_Komnum_AndieAzrilAlfrianto" 
