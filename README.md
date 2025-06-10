@@ -10,7 +10,6 @@ Anggota Kelompok A13 :
 | 5025241066 | Naufal Daffa Alfa Zain |
 | 5025241067 | Bagus Cahya Saputra |
 
-<h4>Very Ardiansyah</h4>
 Tujuan : Pemenuhan Tugas Final Project Komputasi Numerik. <br>
 Soal : 
 <div align="left">
